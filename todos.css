@@ -7,7 +7,7 @@ body {
 body {
 	font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: 1.4em;
-	background: #ff1a1a;
+	background: #e0e0d1;
 	color: #333333;
 	width: 520px;
 	margin: 0 auto;
@@ -15,7 +15,7 @@ body {
 }
 
 #todoapp {
-	background: #ff704d;
+	background: #c1c1a4;
 	padding: 20px;
 	margin-bottom: 40px;
 	-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 2px 6px 0;
